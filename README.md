@@ -1,6 +1,10 @@
 # Sistema de Gestión de Proyectos FCT
 
-![CI/CD Pipeline](https://github.com/elmosca/proyecto-fct-NetJs/workflows/CI/CD%20Pipeline/badge.svg)
+> [!NOTE]
+> **Proyecto archivado (agosto de 2025).** Fue mi primer enfoque para el proyecto de fin de ciclo de DAM: backend NestJS con Clean Architecture y cliente Flutter.
+> Lo abandoné en favor de [proyecto_flutter_supabase](https://github.com/jualas/proyecto_flutter_supabase), que evolucionó después en **[TaskBoard](https://github.com/jualas/taskboard)** (FastAPI + PostgreSQL + Flutter Web, con asistente IA y servidor MCP).
+> Se conserva como referencia; no recibe mantenimiento.
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.16.0-blue)
 ![NestJS](https://img.shields.io/badge/NestJS-11.0-red)
 ![Node.js](https://img.shields.io/badge/Node.js-20.19.4-green)
